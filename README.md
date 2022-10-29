@@ -1,2 +1,3 @@
-# kb-notes
-IT-related notes
+# IT-related notes
+
+This repository contains notes for computer-related issues.
